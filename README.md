@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esha Patel</h1>
-<h3 align="center">A Computer science student passionate about programming and design.</h3>
+<h3 align="center">Pre-Final year Computer science student passionate about programming and design.</h3>
 
 
 <h3 align="left">My Technical Stack:</h3>
